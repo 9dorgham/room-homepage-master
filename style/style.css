@@ -69,3 +69,13 @@ p {
     letter-spacing: 10px;
     text-transform: uppercase;
 }
+/* done */
+
+section.about {
+    display: flex;
+}
+section.about .txt {
+    flex-grow: 1;
+    margin: auto;
+    padding-inline: 2em;
+}
